@@ -3,6 +3,13 @@ linzerschnitte-utils
 
 A collection of examples and test apps for the LinzerSchnitte project.
 
+## max
+
+A collection of max patches that demonstrate how to generate the necessary frequencies for controlling LinzerSchnitte devices directly.
+
+- **simple_tones.maxpat**: A monophonic sequencer
+- **sequencer.maxpat**: A polyphonic ADSR sequencer, based on this tutorial: https://www.youtube.com/watch?v=hYc2a1ONTck
+
 ## pd
 
 ### miditest.pd
